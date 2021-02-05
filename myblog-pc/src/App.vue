@@ -2,6 +2,7 @@
   <div id="app">
     <div class="container">
       <common-header/>
+	  <h1>11111111</h1>
       <router-view/>
     </div>
       
